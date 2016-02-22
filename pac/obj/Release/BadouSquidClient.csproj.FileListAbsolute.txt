@@ -1,0 +1,10 @@
+F:\C#\SquidClient巴豆\pac\pac\bin\Release\BadouSquidClient.exe.config
+F:\C#\SquidClient巴豆\pac\pac\obj\Release\pac.Form1.resources
+F:\C#\SquidClient巴豆\pac\pac\obj\Release\BadouSquidClient.Properties.Resources.resources
+F:\C#\SquidClient巴豆\pac\pac\obj\Release\BadouSquidClient.csproj.GenerateResource.Cache
+F:\C#\SquidClient巴豆\pac\pac\bin\Release\BadouSquidClient.exe
+F:\C#\SquidClient巴豆\pac\pac\bin\Release\BadouSquidClient.pdb
+F:\C#\SquidClient巴豆\pac\pac\obj\Release\BadouSquidClient.exe
+F:\C#\SquidClient巴豆\pac\pac\obj\Release\BadouSquidClient.pdb
+F:\C#\SquidClient巴豆\pac\pac\obj\Release\BadouSquidClient.csprojResolveAssemblyReference.cache
+F:\C#\SquidClient巴豆\pac\pac\obj\Release\BadouSquidClient.EditServer.resources
